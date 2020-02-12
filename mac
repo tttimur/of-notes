@@ -1,0 +1,3 @@
+Enable High Resolution support
+---
+* Add "High Resolution Capabale" => "YES" row in [openFrameworks-]Info.plist
